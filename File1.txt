@@ -1,4 +1,8 @@
 "Contencts added by developer A"
 "Contents added by developer B"
+<<<<<<< HEAD
 "B is changing the file again"
+=======
+"Contents added by developer c"
+>>>>>>> 86703dd192b4d32b09a17a1f914c92a1cec25df6
 
